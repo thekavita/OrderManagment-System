@@ -1,0 +1,36 @@
+body{
+  background-color: antiquewhite;
+}
+.search:hover{
+  background-color: lightgrey;
+}
+.main-heading{
+    text-align: center;
+    margin-top: 20px;
+}
+#inputid{
+    text-align: center;
+    margin: 20px auto;
+     width: 400px;
+     height: 50px;
+   font-size:x-large;
+
+}
+.btnouter{
+    display: flex;
+    justify-content: center;
+}
+.btnouter button{
+    width:100px;
+    font-size: 26px;
+    padding: 2px;
+  }
+  .order-block {
+    text-align: center;
+    width: 30%;
+    height: 240px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+  
